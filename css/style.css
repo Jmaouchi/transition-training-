@@ -42,11 +42,11 @@
   color:transparent;
 }
 
-.image.active{
-  filter: brightness(10%);
-}
-
-/* .image-blur{
-  transition: .5s;
+/* .image.active{
   filter: brightness(10%);
 } */
+
+.image-blur{
+  transition: .5s;
+  filter: brightness(10%);
+}
